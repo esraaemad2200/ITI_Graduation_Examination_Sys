@@ -2,6 +2,8 @@
 # Table of Contents
 • Database design
 
+• Database creation using sql
+
 •ERD_diagram
 
 •Mapping
